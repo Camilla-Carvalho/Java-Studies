@@ -1,0 +1,2 @@
+module udemy_java {
+}
